@@ -16,9 +16,9 @@ title: most.mp4
 uid: 2abfe55c-3e59-4877-ac14-94d32d967070
 video_files:
   archive_url: ''
-  video_captions_file: courses/ibrahim-eor-test/most_captions.vtt
+  video_captions_file: /courses/ibrahim-eor-test/most_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: courses/ibrahim-eor-test/most_transcript.vtt
+  video_transcript_file: /courses/ibrahim-eor-test/most_transcript.vtt
 video_metadata:
   source: ''
   video_speakers: ''
