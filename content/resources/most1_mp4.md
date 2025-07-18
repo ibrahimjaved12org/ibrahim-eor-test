@@ -16,9 +16,9 @@ title: most1.mp4
 uid: abdda18e-adae-4906-9738-9d69f65ec08d
 video_files:
   archive_url: ''
-  video_captions_file: ''
+  video_captions_file: courses/ibrahim-eor-test/most1_captions.vtt
   video_thumbnail_file: ''
-  video_transcript_file: ''
+  video_transcript_file: courses/ibrahim-eor-test/most1_transcript.pdf
 video_metadata:
   source: ''
   video_speakers: ''
